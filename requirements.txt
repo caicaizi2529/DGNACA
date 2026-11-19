@@ -1,0 +1,9 @@
+# Versions for the actual DGNACA experiment have not been recovered.
+# Install a PyTorch build matching the local GPU/CUDA and a compatible
+# PyTorch Geometric build first, following their official instructions.
+numpy
+torch
+torch-geometric
+entmax
+tqdm
+matplotlib
